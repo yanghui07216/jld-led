@@ -1,0 +1,172 @@
+.rigt_onlineserver {text-align:left;color:#444;font-size:14px;font-family:"microsoft yahei";}
+.rigt_onlineserver img{border:0}
+.rigt_onlineserver .header_l img{height:65px;margin-top:10px}
+.rigt_onlineserver select, .rigt_onlineserver input,.rigt_onlineserver img{vertical-align:middle}
+.rigt_onlineserver a{text-decoration:none;cursor:pointer;color:#000;font-weight:normal;}
+.rigt_onlineserver a:hover{color:#0f91ed}
+
+
+.rigt_onlineserver .box_os {  font-size: 12px; background:#29a7e2; position: fixed; top:120px; right: 0px; _position: absolute; z-index: 1500; border-radius:6px 0px 0 6px;}
+.rigt_onlineserver .box_os a { color: #00A0E9;}
+.rigt_onlineserver .box_os a:hover { color: #ff8100; text-decoration: none;}
+.rigt_onlineserver .box_os .floatL { width: 36px; float:left; position: relative; z-index:1;height: 181px;}
+.rigt_onlineserver .box_os .floatL a { font-size:0; text-indent: -999em; display: block;}
+.rigt_onlineserver .box_os .floatR { width: 130px; float: left; padding: 5px; overflow:hidden;}
+.rigt_onlineserver .box_os .floatR .cn {background:#F7F7F7; border-radius:6px;margin-top:4px;}
+.rigt_onlineserver .box_os .cn .titZx{ font-size: 15px; color: #333;font-weight:600; line-height:24px;padding:10px 5px 0;text-align:center;}
+.rigt_onlineserver .box_os .cn ul {padding:0px;}
+.rigt_onlineserver .box_os .cn ul li { line-height: 30px; padding-bottom:10px; border-bottom: solid 1px #E6E4E4;overflow: hidden;text-align:center;}
+.rigt_onlineserver .box_os .cn ul li span { color: #777;}
+.rigt_onlineserver .box_os .cn ul li a{color: #777;}
+.rigt_onlineserver .box_os .cn ul li img { vertical-align: middle;}
+.rigt_onlineserver .box_os .btnOpen, .rigt_onlineserver .box_os .btnCtn {  position: relative; z-index:9; top:25px; left: 0;  background-image: url("../../image/shopnc.png"); background-repeat: no-repeat; display:block;  height: 146px; padding: 8px;}
+.rigt_onlineserver .box_os .btnOpen { background-position: 9px 2px;}
+.rigt_onlineserver .box_os .btnCtn { background-position: -32px 0;}
+.rigt_onlineserver .box_os ul li.top { border-bottom: solid #ACE5F9 1px;}
+.rigt_onlineserver .box_os ul li.bot { border-bottom: none;}
+.rigt_onlineserver .cn .kfapp { background:#f7f7f7; text-align:center;}
+.rigt_onlineserver .cn .kfapp img { width:110px; height:110px;}
+.rigt_onlineserver .cn .kf_tel { border:none; font-size:16px; line-height:40px; text-align:center;}
+
+.rigt_onlineserver .acbox { font-weight:bold; text-align:center; line-height:30px; margin-top:5px; background:url("../../image/shopnc.png") no-repeat;  background-position: 106px -154px;}
+.rigt_onlineserver .acbox a { color:#fff; font-size:15px; font-weight:bold; }
+.rigt_onlineserver .acbox a:hover { color:#fff;}
+
+
+.rigt_onlineserver .xc_layer {
+    background-color: #666666;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+	z-index:0;
+	filter: alpha(opacity=50);
+	-moz-opacity:0.5;
+	opacity: 0.5;
+}
+
+
+.rigt_onlineserver .onlineService {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    height: 178px;
+    position: fixed;
+    right: 0;
+    top: 44px;
+    width: 39px;
+    z-index: 9999;
+}
+.rigt_onlineserver .onlineService .ico_os {
+    background-position: 0 0;
+    border: 1px solid #c7c7c7;
+    cursor: pointer;
+    float: right;
+    height: 143px;
+    width: 40px;
+}
+.rigt_onlineserver .onlineService .ico_gt {
+    background-position: right 0;
+    border: 1px solid #299ec0;
+    clear: both;
+    cursor: pointer;
+    float: right;
+    height: 37px;
+    width: 39px;
+}
+.rigt_onlineserver .onlineService .ico_pp {
+    background-position: right -60px;
+    border: 1px solid #81b140;
+    clear: both;
+    cursor: pointer;
+    float: right;
+    height: 37px;
+    margin: 0 0 1px;
+    width: 39px;
+}
+
+
+
+.rigt_onlineserver #pop_ly_id_div {
+    display: none;
+    left: 50%;
+    margin: -15% 0 0 -16%;
+    overflow: hidden;
+    position: fixed;
+    top: 50%;
+    z-index: 9999;
+	background-color:rgb(255 230 220 0.5);
+	width: 500px;  height: 360px;
+}
+
+.rigt_onlineserver #pop_ly_id_div form { z-index:1;  background:#fff; z-index:1; position:absolute; width:100%; height:100%; border-radius:3px;}
+
+
+.rigt_onlineserver #pop_ly_id_div dl {
+    margin: 0 auto;
+    text-align: left;
+}
+.rigt_onlineserver #pop_ly_id_div dl dt {
+    height: 30px;
+    line-height: 30px;
+    padding: 5px;
+    text-indent: 10px;
+	background:#29a7e2;
+	color:#fff;
+	font-size:14px;
+}
+.rigt_onlineserver #pop_ly_id_div dl dt span {
+    cursor: pointer;
+    float: right;
+    font-size: 18px;
+    margin-right: 5px;
+}
+.rigt_onlineserver #pop_ly_id_div dl dd {
+    padding: 15px 5px 0;
+    text-align: left;
+    text-indent: 30px;
+}
+.rigt_onlineserver #pop_ly_id_div input, .rigt_onlineserver #pop_ly_id_div textarea {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: 1px solid #dddddd;
+    color: #999;
+    height: 28px;
+    line-height: 28px;
+    text-align: left;
+    text-indent: 5px;
+    vertical-align: middle;
+    width: 340px;
+	font-size:14px;
+}
+.rigt_onlineserver #pop_ly_id_div textarea {
+    height: 87px;
+    line-height: 22px;
+    resize: none;
+	font-size:14px;
+}
+.rigt_onlineserver #pop_ly_id_div #msg_vcode {
+    width: 80px;
+}
+ .rigt_onlineserver #pop_ly_id_div dd img {
+    height: 22px;
+    margin-left: 5px;
+    vertical-align: middle;
+    width: 80px;
+}
+.rigt_onlineserver .msg_button {
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 30px;
+    margin: 5px 20px 20px 0;
+    overflow: hidden;
+    text-align: center;
+    text-indent: 0;
+    width: 120px;
+	background:#29a7e2;
+}
+.rigt_onlineserver .box_os .osqq .wxClassText {
+    margin-bottom: 6px;
+    margin-top: 5px;
+}
